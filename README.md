@@ -1,2 +1,9 @@
 # MSFT-Equity-Projection
-Equity Data Projection
+Validity of Stock Market Projections
+In the words of Burton Gordon Malkiel, an American economist and best selling author of A Random Walk Down Wall Street: “Under scientific scrutiny, chart reading must share a pedestal with alchemy.” Malkiel along with many others in the field of academia share the view that under the terms of the Efficient-market Hypothesis, the stock market is a place for ever so volatile price markers of equities where its outcomes are not predictable with reason. Then again, is that so often the case?
+
+The Efficient-market Hypothesis holds the position that 1) Stocks always trade at fair value on exchanges, 2) Share prices represent all relevant information that the generation of alpha is not attainable. Simply put, the hypothesis asserts that in any given time over a period, the market has the ability to adjust to new information and so it is impossible to outperform it. One’s guess is as good as another or as Malkiel famously puts it: “Your guess is as good as that of the ape.” 
+
+It should be clearer now why proponents of the Efficient-market Hypothesis, which happens to be the cornerstone of modern financial theory, view the prediction of the stock market as pointless. However, this does not explain how a vast majority of establishments in the financial services sector like trading firms, mutual funds and hedge funds that employ quantitative trading algorithms and charted data are able to churn out billions in profit annually. Add to that, Behavioral finance teaches us that investors of the stock market are far from rational; hence, future prices can be predicted ‘to an extent’ based on analysis of historical trends. 
+
+This calls to the question: Can a deep learning algorithm trained on historical stock data forecast data accurately and to what extent? 
